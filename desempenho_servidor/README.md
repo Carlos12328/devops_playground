@@ -1,5 +1,7 @@
 # Desafio 01 — Estatísticas do Servidor
 
+https://roadmap.sh/projects/server-stats
+
 Script Bash que coleta e exibe estatísticas de desempenho de qualquer servidor Linux.
 
 ## Requisitos
